@@ -1,0 +1,56 @@
+.attribution 
+{ font-size: 11px; text-align: center; margin-top: 15%;}
+.attribution a 
+{ color: hsl(228, 45%, 44%);
+    }
+
+
+h1,h4,.tab{
+    color: white;
+}
+
+h4{
+    font-weight: 400;
+}
+
+h3{
+    color: hsl(75, 94%, 57%);
+}
+
+body{
+    font-family: inter;
+    font-size: 14px;
+    background-color:hsl(0, 0%, 8%) ;
+
+}
+
+.container{
+    margin: 20%;
+    background-color: hsl(0, 0%, 12%);
+    text-align: center;
+    border-radius: 15px;
+    padding: 5%;
+}
+
+.container2{
+    color: white;
+    background-color: hsl(0, 0%, 20%);
+}
+
+img{
+    border-radius: 50%;
+    
+}
+
+.tab1,.tab2,.tab3,.tab4,.tab5{
+    border: 10px solid hsl(0, 0%, 12%);
+    padding: 15px;
+    font-weight: 600;
+    border-radius: ;
+}
+
+@media (max-width:375px){ 
+}
+
+@media (min-width:376px){ 
+}
